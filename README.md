@@ -17,11 +17,12 @@ Languages and Tools
 Java • Spring Boot • JavaScript • Python • HTML5 • CSS3 • Bootstrap • MySQL • Git • GitHub
 
 Portfolio Website : https://kushanchalia.github.io/folio/
+
 Resume :https://drive.google.com/file/d/1hcVYEzjoFJr3shtH3WY4CsgIsTwwIP9A/view?usp=sharing
 
-Portfolio
 Competitive Coding Profiles:
 CodeChef • LeetCode • AtCoder
+
 Let's Connect
 LinkedIn: https://www.linkedin.com/in/kush-anchalia-41678a228/
 Email: kushanchalia@gmail.com
